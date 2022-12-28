@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity {
                     e.printStackTrace();
                 }
             } else {
-                Toast.makeText(MainActivity.this, "No flashlight available", Toast.LENGTH_LONG).show();
+                Toast.makeText(MainActivity.this, "No flashlight available!", Toast.LENGTH_LONG).show();
             }
         });
     }
