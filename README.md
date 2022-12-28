@@ -1,5 +1,5 @@
 # Flashlight
 
 <p align="center">
-<a href="href="https://github.com/KRBNJSF/Flashlight/blob/master/app-debug.apk?raw=true">Download</a>
+<a href="https://github.com/KRBNJSF/Flashlight/raw/master/app-debug.apk">Download</a>
 </p>
